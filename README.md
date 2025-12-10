@@ -16,6 +16,19 @@ OpenEduCat offers a comprehensive suite of features tailored for modern educatio
 - **Customizable & Modular** 🔧: Adapt or extend modules to meet your institution’s unique needs.
 - **Secure & Scalable** 🔒: Robust security features ensure your data is protected while scaling with your growth.
 
+---
+
+## Roadmap 🗺️
+
+We’re continuously evolving! Here’s a glimpse of what’s coming:
+- **Enhanced Mobile Experience** 📱: Optimizing for a seamless mobile interface.
+- **New Modules** 🆕: Introducing additional modules based on community feedback.
+- **Performance Optimization** ⚡: Continuous improvements for faster and smoother operations.
+- **Extended Integrations** 🔗: More integrations with popular third-party services.
+- **User Experience Enhancements** 🎨: Regular UI/UX updates to make navigation even easier.
+
+Stay tuned for future updates and contribute to shaping our roadmap!
+
 
 Core Module
 ----------------
