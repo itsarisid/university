@@ -1,5 +1,5 @@
 # The Ultimate Marketing Automation Platform
-Make your marketing campaigns smarter and more efficient with OpenEduCat. Integrate email marketing with CRM, leverage analytics to drive your product sales, and develop an effective customer lifecycle with personalized communications across channels.
+Make your marketing campaigns smarter and more efficient with IIWI. Integrate email marketing with CRM, leverage analytics to drive your product sales, and develop an effective customer lifecycle with personalized communications across channels.
 
 ### IIWI Marketing Automation Tool: A Comprehensive Smart Email Marketing Tool
 Streamline your lead nurturing and conversion processes with our suite of tools. From email marketing to social media and mobile apps, we have a solution that fits your needs so you can stay focused on what’s really important - closing deals.
@@ -26,7 +26,7 @@ Use marketing automation software to create personalized customer journeys for e
   Create logical “next steps” for your prospects and leads. Create hyper-targeted follow-ups that reflect your target’s demographics, interests and behavior to maximize conversions
 
 - ##### Well-Integrated
-  The Marketing Automation Tool is a powerful marketing automation platform that integrates with the OpenEduCat platform to deliver a seamless and smooth in-app experience.
+  The Marketing Automation Tool is a powerful marketing automation platform that integrates with the IIWI platform to deliver a seamless and smooth in-app experience.
 
 ### Beautiful, Engaging, Professional Emails
 Create beautiful marketing emails with powerful templates and rich content. Enhance your email campaigns with built-in templates, customizations and a variety of third party APIs.
@@ -72,3 +72,4 @@ With email marketing, you'll now be able to analyze audience response to your ca
 
 - ##### Dashboard Insights
     Your email tracker dashboard makes it easy and simple to understand what's happening, so you can grow your business.
+
