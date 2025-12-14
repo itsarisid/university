@@ -1,6 +1,6 @@
 ## Features 🚀📚
 
-OpenEduCat offers a comprehensive suite of features tailored for modern educational institutions:
+IIWI offers a comprehensive suite of features tailored for modern educational institutions:
 
 - **Admissions & Registration** 🎟️: Simplify enrollment and registration processes.
 - **Student Information Management** 👨‍🎓👩‍🎓: Manage student profiles, academic history, and personal details.
