@@ -25,10 +25,11 @@ Get Secure and TamperProof Results & Transcript / Marksheet with the Help of IIW
     IIWI Secure is a cost-effective solution for preventing counterfeiting. Their user-friendly and low maintenance nature makes it an ideal solution to employ on a small or large scale, especially for semi-automatic or fully automatic stamping processes.
 
 - #### Easy to Use
-IIWI is a platform for issuing and validating certificates. A verified certificate issued using IIWI will have an imprinted QR code on it. This QR code can be easily scanned by the user.
+    IIWI is a platform for issuing and validating certificates. A verified certificate issued using IIWI will have an imprinted QR code on it. This QR code can be easily scanned by the user.
 
 - #### Building Trust
     The IIWI platform is a perfect solution for institutes that want to stand against certificate counterfeiting. We at IIWI, bring you a guaranteed certificate security framework which secures your campus at every level.
 
 - #### Track and Trace
     The IIWI is the next generation educational platform that helps validate, credential, and reference education in a seamless manner.
+
